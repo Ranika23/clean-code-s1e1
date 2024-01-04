@@ -34,6 +34,7 @@
 }
 .task-row-wrapper {
   display: flex;
+  margin-top: 20px;
 }
 #incomplete-tasks,
 #completed-tasks {
